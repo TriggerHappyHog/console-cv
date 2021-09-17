@@ -5,8 +5,7 @@ body {
 }
 
 body {
-  background-color: #ececec;
-  background:linear-gradient(135deg, #4d4d4d, #000000);
+  background-color: black;
   color: #fff;
   /*padding: 0.5em 1em;*/
   -webkit-font-smoothing: antialiased;
